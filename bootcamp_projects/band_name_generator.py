@@ -1,0 +1,1 @@
+print('Hello user! Welcome to the band name generator :)')
