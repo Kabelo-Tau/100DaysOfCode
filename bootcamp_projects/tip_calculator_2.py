@@ -11,4 +11,4 @@ total_bill = bill * (1 + perc/100)
 split = "{:.2f}".format(total_bill/people)
 
 # Output the  
-print(f"Each person should pay: ${split}")
+print(f"Each person should pay: ${split}") 
