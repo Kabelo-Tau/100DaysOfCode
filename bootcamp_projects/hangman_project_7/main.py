@@ -20,7 +20,7 @@ for _ in range(word_length):
 while not end_of_game:
     guess = input("\nGuess a letter: ").lower()
 
-    clear()
+    clear() # Clears consoloe when user guesses letter
     
     if guess in display:
         print(f"You've already guessed the letter {guess}.")
